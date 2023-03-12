@@ -18,4 +18,4 @@ The data in these tables will need to be cleaned and processed before it can be 
 
 
 ## Entity Relationship Diagram
-![alt text](https://github.com/paridahimanshu0610/AliensStudy/ERD.JPG)
+![alt text](https://github.com/paridahimanshu0610/AliensStudy/ERD.jfif)
